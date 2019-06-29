@@ -1,7 +1,7 @@
 print('''
 ********************************
 
-ÖzcanBank'a Hoşgeldiniz!
+Bankamıza Hoşgeldiniz!
 
 Lütfen Yapmak İstediğiniz İşlemi Listeden Seçiniz!
 
@@ -9,8 +9,8 @@ Lütfen Yapmak İstediğiniz İşlemi Listeden Seçiniz!
 
 *********************************
 ''')
-TC = 68845194858
-Müşteri_No = 6197272
+TC = 0000000000000
+Müşteri_No = 0000000
 
 while True:
     islem = input('''
